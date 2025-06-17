@@ -16,4 +16,4 @@ Website: https://freak-analytics.com
 
 Email: title.jea@gmail.com
 
-![dog](https://www.shutterstock.com/image-photo/golden-retriever-puppy-running-on-260nw-2467958289.jpg}
+![dog](https://www.shutterstock.com/image-photo/golden-retriever-puppy-running-on-260nw-2467958289.jpg)
