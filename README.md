@@ -12,4 +12,6 @@ This bootcamp runs about 4 months (10 sprints).
 - Python
 - Dashboard
 
+Website: https:/freak-analytics.com
 Email: title.jea@gmail.com
+
