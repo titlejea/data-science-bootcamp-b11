@@ -17,7 +17,7 @@ I love `R programming`
 
 ### Code Block
 ```sql
-SELECT * FROM df
+SELECT * FROM df;
 ```
 
 Website: https://freak-analytics.com
