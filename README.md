@@ -12,8 +12,16 @@ This bootcamp runs about 4 months (10 sprints).
 - Python
 - Dashboard
 
+### In line code
+I love `R programming`
+
+### Code Block
+```sql
+SELECT * FROM df
+```
+
 Website: https://freak-analytics.com
 
 Email: title.jea@gmail.com
 
-![dog](https://www.shutterstock.com/image-photo/golden-retriever-puppy-running-on-260nw-2467958289.jpg)
+![dog](https://thumbs.dreamstime.com/b/happy-golden-retriever-puppy-seven-week-old-outdoors-sunny-day-46046484.jpg)
