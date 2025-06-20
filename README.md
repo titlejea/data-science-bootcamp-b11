@@ -1,6 +1,6 @@
 # Data Science Bootcamp Projects #Batch11
 This bootcamp runs about 4 months (10 sprints)
-test when `git push`
+test when `git pull`
 
 - Google Sheets
 - Database
