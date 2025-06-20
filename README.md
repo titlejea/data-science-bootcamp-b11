@@ -1,5 +1,5 @@
 # Data Science Bootcamp Projects #Batch11
-This bootcamp runs about 4 months (10 sprints).
+This bootcamp runs about 4 months (10 sprints) by P'Toy DataRockie
 
 - Google Sheets
 - Database
@@ -9,7 +9,7 @@ This bootcamp runs about 4 months (10 sprints).
 - Statistics
 - Machine Learning
 - Website with Wordpress
-- Python
+- Python for DA
 - Dashboard
 
 ### In line code
